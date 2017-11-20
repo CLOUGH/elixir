@@ -1,5 +1,5 @@
 {
-  "name": "laravel-elixir",
+  "name": "laravel-elixir-cloughax-fork",
   "version": "6.0.0-16",
   "description": "Laravel Elixir Core",
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/laravel/elixir"
+    "url": "https://github.com/CLOUGH/elixir.git"
   },
   "keywords": [
     "laravel",
@@ -18,7 +18,7 @@
     "gulp"
   ],
   "author": {
-    "name": "Jeffrey Way"
+    "name": "Warren Clough"
   },
   "license": "MIT",
   "homepage": "https://github.com/laravel/elixir",
